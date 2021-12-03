@@ -1,4 +1,5 @@
 git init
+touch godwinfile.txt
 git add godwinfile.txt
 git commit
 git commit -m "hello i have added new file here"
