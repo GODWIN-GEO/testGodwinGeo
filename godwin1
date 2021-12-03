@@ -3,8 +3,8 @@ git add godwinfile.txt
 git commit
 git commit -m "hello i have added new file here"
 
-git pull origin master
+git pull origin main
 
 git remote add origin https://github.com/GODWIN-GEO/testGodwinGeo.git
 git push ~/user/git/proj
-git push origin master
+git push origin main
