@@ -1,0 +1,7 @@
+git init
+git add godwinfile.txt
+git commit
+git commit -m "hello i have added new file here"
+git push master
+git pull <remote>
+git 
